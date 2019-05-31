@@ -1,0 +1,7 @@
+{
+  "appId": "com.simpleapps.recipelearningapp",
+  "appName": "iac",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
